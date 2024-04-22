@@ -1,0 +1,14 @@
+C:\Users\rosem\.NET\Friends\bin\Debug\net8.0\Friends.exe
+C:\Users\rosem\.NET\Friends\bin\Debug\net8.0\Friends.deps.json
+C:\Users\rosem\.NET\Friends\bin\Debug\net8.0\Friends.runtimeconfig.json
+C:\Users\rosem\.NET\Friends\bin\Debug\net8.0\Friends.dll
+C:\Users\rosem\.NET\Friends\bin\Debug\net8.0\Friends.pdb
+C:\Users\rosem\.NET\Friends\obj\Debug\net8.0\Friends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosem\.NET\Friends\obj\Debug\net8.0\Friends.AssemblyInfoInputs.cache
+C:\Users\rosem\.NET\Friends\obj\Debug\net8.0\Friends.AssemblyInfo.cs
+C:\Users\rosem\.NET\Friends\obj\Debug\net8.0\Friends.csproj.CoreCompileInputs.cache
+C:\Users\rosem\.NET\Friends\obj\Debug\net8.0\Friends.dll
+C:\Users\rosem\.NET\Friends\obj\Debug\net8.0\refint\Friends.dll
+C:\Users\rosem\.NET\Friends\obj\Debug\net8.0\Friends.pdb
+C:\Users\rosem\.NET\Friends\obj\Debug\net8.0\Friends.genruntimeconfig.cache
+C:\Users\rosem\.NET\Friends\obj\Debug\net8.0\ref\Friends.dll

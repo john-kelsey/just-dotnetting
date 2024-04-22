@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tK3Uw8hglvx1G20WLegfxGlrIg+z4Thl0f+2TPGiBA+TcTRihWRmggtmFVJmt9aOgAua/Lxt494X+1mcqw/Qdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rosem\\.NET\\Friends\\Friends.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rosem\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.37.0\\microsoft.cognitiveservices.speech.1.37.0.nupkg.sha512"
+  ],
+  "logs": []
+}

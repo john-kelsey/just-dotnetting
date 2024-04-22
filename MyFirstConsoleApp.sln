@@ -5,6 +5,12 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstConsoleApp", "MyFirstConsoleApp\MyFirstConsoleApp.csproj", "{D2373DEA-0ABC-4C15-AF63-8D48879805AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPasswordGenerator", "MyPasswordGenerator\MyPasswordGenerator.csproj", "{B072FFBA-F98D-48CF-B049-56A0A9556F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friends", "Friends\Friends.csproj", "{D8CF94AE-8663-4BAB-8A82-D91970543E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voice", "Voice\Voice.csproj", "{0197203D-7473-40B8-A6BF-413BB255C4A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +24,17 @@ Global
 		{D2373DEA-0ABC-4C15-AF63-8D48879805AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2373DEA-0ABC-4C15-AF63-8D48879805AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2373DEA-0ABC-4C15-AF63-8D48879805AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B072FFBA-F98D-48CF-B049-56A0A9556F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B072FFBA-F98D-48CF-B049-56A0A9556F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B072FFBA-F98D-48CF-B049-56A0A9556F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B072FFBA-F98D-48CF-B049-56A0A9556F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CF94AE-8663-4BAB-8A82-D91970543E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CF94AE-8663-4BAB-8A82-D91970543E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CF94AE-8663-4BAB-8A82-D91970543E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CF94AE-8663-4BAB-8A82-D91970543E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0197203D-7473-40B8-A6BF-413BB255C4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0197203D-7473-40B8-A6BF-413BB255C4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0197203D-7473-40B8-A6BF-413BB255C4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0197203D-7473-40B8-A6BF-413BB255C4A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
