@@ -3,8 +3,8 @@ using Microsoft.CognitiveServices.Speech;
 using Microsoft.CognitiveServices.Speech.Audio;
 
 // Replace with your actual subscription key and region
-string subscriptionKey = "7f67a999972e491cb7c60650e620e254";
-string subscriptionRegion = "westeurope";
+string subscriptionKey = "subscription_key";
+string subscriptionRegion = "region";
 
 // Function to configure speech synthesizer
 SpeechConfig GetSpeechConfig()
