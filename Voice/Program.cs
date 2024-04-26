@@ -1,4 +1,4 @@
-         
+          
 using System;
 using Microsoft.CognitiveServices.Speech;
 using Microsoft.CognitiveServices.Speech.Audio;
